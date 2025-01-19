@@ -1,17 +1,16 @@
 {
   "name": "App-interface",
-  "description": "Xibo Open Source Digital Signage",
+  "description": "INTERFACE",
   "keywords": [
-    "xibo",
-    "digital signage",
-    "spring signage"
+    "interface",
+    "APP"
   ],
-  "homepage": "https://app-interface.netlify.app",
+  "homepage": "https://app-interface-up.netlify.app",
   "license": "AGPL-3.0",
   "authors": [
     {
       "name": "Xibo Signage Ltd",
-      "homepage": "https://app-interface.netlify.app"
+      "homepage": "https://app-interface-up.netlify.app"
     },
     {
       "name": "Xibo Contributors",
